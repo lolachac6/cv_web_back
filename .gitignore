@@ -1,3 +1,4 @@
 .env 
-test.rest
 node_modules
+notas.md 
+test.rest
