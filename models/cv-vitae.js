@@ -14,7 +14,6 @@ let cv = new Schema ({
 
 }
 
-
 )
 
 module.exports = mongoose.model('cv',cv);
